@@ -1,0 +1,26 @@
+/* UserList.css */
+.user-list-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .user-list-header {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .user-list-error {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .user-list-item {
+    margin-top: 10px;
+    font-size: 16px;
+    display: block;
+  }
+  
+  .user-list-item strong {
+    font-weight: bold;
+  }
+  
